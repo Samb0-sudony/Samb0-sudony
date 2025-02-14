@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samb0-sudony
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning ethical hacking and digital forensics 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to learn and collaborate with those who are already in the game
 - 📫 How to reach me ...
 - ⚡ Fun fact: i am a novice
 
